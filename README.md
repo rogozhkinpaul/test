@@ -5,6 +5,6 @@ huli
 
 # ya pizhe
 
-#opa_nihuya
+# opa nihuya
 
 #A tak zayabis'?
